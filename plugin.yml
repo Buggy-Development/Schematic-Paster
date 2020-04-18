@@ -1,0 +1,5 @@
+name: SchematicPaster
+version: 1
+main: de.MineBug.schematics.SchematicPaster
+commands:
+  schempaste:
